@@ -1,2 +1,2 @@
-hello this is GIT COMMANDS 
+Hello this is GIT COMMANDS
 My name is Prathibha Reddy
